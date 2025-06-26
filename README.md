@@ -1,6 +1,6 @@
-# 🛡️ Kevin – Młody Pasjonat Cyberbezpieczeństwa
+# 🛡️ igor blask – asjonat Cyberbezpieczeństwa
 
-Cześć! Nazywam się **Kevin**, mam **17 lat** i moją pasją jest **cyberbezpieczeństwo**, a w szczególności testy penetracyjne. Od dłuższego czasu **regularnie rozwijam się na platformach takich jak Hack The Box**, gdzie szlifuję praktyczne umiejętności pentesterskie.
+Cześć! Nazywam się i moją pasją jest **cyberbezpieczeństwo**, a w szczególności testy penetracyjne. Od dłuższego czasu **regularnie rozwijam się na platformach takich jak Hack The Box**, gdzie szlifuję praktyczne umiejętności pentesterskie.
 
 Buduję swoje **portfolio na GitHubie**, gdzie publikuję raporty z nauki i analizę różnych podatności. Oprócz tego **prowadzę konto na TikToku**, gdzie dzielę się ciekawostkami ze świata IT Security i pokazuję kulisy nauki młodego pentestera.
 
@@ -61,7 +61,7 @@ Moim celem jest **rozpoczęcie praktyk lub współpracy w branży cyberbezpiecze
 
 Chciałbym, aby ktoś z branży mnie zauważył. **Szukam praktyk, zleceń, współpracy** – jestem gotowy na wszystko, co pomoże mi wejść głębiej w świat bezpieczeństwa IT.
 
-**E-mail do kontaktu:** bibip0662@gmail.com
+**E-mail do kontaktu:** pikola93846@gmail.com
 
 ---
 
